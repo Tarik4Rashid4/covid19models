@@ -1,4 +1,4 @@
-# covid19models
+# Covid19-models
 Cite the following articles:
 
 Dosti Kh. Abbas, Tarik A. Rashid, Karmand H. Abdalla, Nebojsa Bacanin, Abeer Alsadoon. (2021) Using Fitness Dependent Optimizer for Training Multi-layer Perceptron. Journal of Internet Technology. Volume 22 (2021) No.7. DOI: https://doi.org/10.53106/160792642021122207011
